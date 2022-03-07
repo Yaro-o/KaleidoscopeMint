@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x523F0a99Db51a2F6a629B178bDd795e358EA8701",
+  "SCAN_LINK": "https://polygonscan.com/address/0x523f0a99db51a2f6a629b178bdd795e358ea8701",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Kaleidoscope NFTs",
+  "SYMBOL": "KSCP",
+  "MAX_SUPPLY": 360,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 250000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/heisenberg--nft",
+  "SHOW_BACKGROUND": true
+}
