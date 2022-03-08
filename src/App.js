@@ -369,7 +369,7 @@ function App() {
                 <s.TextDescription
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  Number of Points should be any integer from 1 to a maximum of 30.
+                  Number of Points should be any integer from 1 to a maximum of 50.
                 </s.TextDescription>
                 <s.SpacerSmall />
                 <s.TextDescription
